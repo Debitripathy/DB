@@ -1,5 +1,5 @@
 # DB
-This will hold DB Related Document 
+This will hold Mysql DB Related Document 
 =============================
 To run this script file do the below steps:
 
